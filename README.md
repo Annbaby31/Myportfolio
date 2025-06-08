@@ -1,1 +1,0 @@
-Hi! I'm Ann Maria, a passionate Computer Science Engineering student at Amal Jyothi College of Engineering. I'm interested in UI/UX design, web development, and love working with tools like Figma, HTML, CSS, and JavaScript. I'm currently exploring the world of frontend development and building creative and responsive websites.
